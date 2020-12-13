@@ -89,9 +89,6 @@ form button {
   padding: 4px 10px;
 }
 
-
-/*
-
 ul.songs {
   list-style-type: none;
   padding: 0;
@@ -103,7 +100,6 @@ ul.songs li {
   justify-content: space-between;
   margin: 10px 0;
 }
-
 
 .container {
   margin: 30px auto;
@@ -129,4 +125,3 @@ ul.songs li {
   margin: 15px;
 }
 
-*/
